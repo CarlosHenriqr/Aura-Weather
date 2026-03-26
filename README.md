@@ -201,7 +201,7 @@ model SavedCity {
 
 | Nome | GitHub |
 |---|---|
-| Carlo | [@carlo](https://github.com/seu-usuario) |
+| Carlo | [@carlo](https://github.com/CarlosHenriqr) |
 
 
 ---
